@@ -5,7 +5,7 @@
 
 *first a code block to gauge your feeling*
 
-```
+```{bash}
 #code block
 if (happy)
 print ":smiley:";
