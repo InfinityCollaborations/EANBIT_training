@@ -2,7 +2,7 @@
 ## Git and github practice
 *git is an open source tool.very handy skill.*
 ### Let's begin
-~~learning new skills ~~
+
 *first a code block to gauge your feeling*
 
 ```
