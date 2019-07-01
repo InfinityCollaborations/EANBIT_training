@@ -8,9 +8,9 @@
 ```
 #code block
 if (happy)
-print "smiley";
+print ":smiley:";
 else
-print "frown";
+print "rage";
 ```
 
 Here's a [Gihub pages](https://github.com/eanbit-rt2019), link to the actual EANBiT training repo, coz this is not it.
@@ -20,4 +20,7 @@ In the repo you'll find so much more. Like;
 - advanced scripting staff
 - even some workflow language info
 
-So this should be fun
+So this should be :fire: :+1:
+
+Enjoyyy!!
+
