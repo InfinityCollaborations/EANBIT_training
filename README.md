@@ -13,7 +13,7 @@ else
 print "rage";
 ```
 
-Here's a [Gihub pages](https://github.com/eanbit-rt2019), link to the actual EANBiT training repo, coz this is not it.
+Here's a [link](https://github.com/eanbit-rt2019) to the actual EANBiT training repo, coz this is not it.
 
 In the repo you'll find so much more. Like;
 - genomic annotation staff
