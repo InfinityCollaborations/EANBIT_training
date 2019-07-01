@@ -24,4 +24,6 @@ In the repo you'll find so much more. Like;
 So this should be :fire: :+1:
 
 Enjoyyy!!
+**image loading failed**
+![enjoy]()
 
